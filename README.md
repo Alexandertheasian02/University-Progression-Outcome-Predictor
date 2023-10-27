@@ -4,7 +4,7 @@ A University requires a program to predict progression outcomes at the end of ea
 
 
   	
-Pass  Defer  Fail
+1st Column - Pass | 2nd Column - Defer | 3rd Column - Fail | 4th Column - Progression Outcome
 
 120    0  	  0  	 Progress  
 100  	 20  	  0  	 Progress (module trailer)  
