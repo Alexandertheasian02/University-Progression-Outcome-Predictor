@@ -1,6 +1,6 @@
 # University-Progression-Outcome-Predictor
 Developed a Python program enabling students to predict academic progression outcomes. Implemented user-defined functions to prompt for credit details and determine progress. Enhancing academic planning and decision-making for students.
-A University requires a program to predict progression outcomes at the end of each academic year. Given below are the possible outcomes for the modules of the students. 
+A University requires a program to predict progression outcomes at the end of each academic year. One student should take a total of 6 modules in an academic year and each module gives 20 marks when passed. Given below are the possible outcomes for the students.
 
 
   	
