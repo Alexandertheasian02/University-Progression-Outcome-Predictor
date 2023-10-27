@@ -4,8 +4,9 @@ A University requires a program to predict progression outcomes at the end of ea
 
 
   	
-Pass  Defer  Fail  	
-120  	 0  	  0  	 Progress  
+Pass  Defer  Fail
+
+120    0  	  0  	 Progress  
 100  	 20  	  0  	 Progress (module trailer)  
 100  	 0  	  20   Progress (module trailer)  
 80  	 40  	  0  	 Do not Progress – module retriever  
@@ -36,10 +37,5 @@ Pass  Defer  Fail
 
 
 This project consists of:
-Validations
-Multiple Outcomes
-Histogram
-Lists
-Dictionaries
-User-defined functions
+Validations, Multiple Outcomes, Histogram, Lists, Dictionaries, User-defined functions
 
